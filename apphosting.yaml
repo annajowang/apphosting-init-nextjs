@@ -15,7 +15,6 @@ env:
     value: Hello world!
     availability:
       - BUILD
-      - RUNTIME
 
   # Configure secrets
   # See https://firebase.google.com/docs/app-hosting/configure#secret-parameters
