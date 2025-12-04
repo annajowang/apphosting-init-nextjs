@@ -10,7 +10,7 @@
     "apphosting:build": "apphosting-adapter-nextjs-build"
   },
     "dependencies": {
-    "next": "15.0.0",
+    "next": "15.2.6",
     "react": "^18.0.0",
 	"react-dom": "^18.0.0",
 	"@apphosting/adapter-nextjs": "14.0.19"
