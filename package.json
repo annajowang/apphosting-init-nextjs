@@ -7,10 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "apphosting:build": "FRAMEWORK_VERSION=15.2.6 apphosting-adapter-nextjs-build"
+    "apphosting:build": "FRAMEWORK_VERSION=15.0.0 apphosting-adapter-nextjs-build"
   },
     "dependencies": {
-    "next": "15.2.6",
+    "next": "15.0.0",
     "react": "^18.0.0",
 	"react-dom": "^18.0.0",
 	"@apphosting/adapter-nextjs": "14.0.19"
