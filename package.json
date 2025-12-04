@@ -13,10 +13,9 @@
     "next": "15.0.0",
     "react": "^18.0.0",
 	"react-dom": "^18.0.0",
-	"@apphosting/adapter-nextjs": "14.0.19"
+	"@apphosting/adapter-nextjs": "14.0.21-canary.714b0e6"
   },
-    "devDependencies": {
-    "@apphosting/adapter-nextjs": "14.0.21-canary.714b0e6",
+    "devDependencies": {  
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
