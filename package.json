@@ -6,16 +6,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "apphosting:build": "FRAMEWORK_VERSION=15.0.0 apphosting-adapter-nextjs-build"
+    "lint": "next lint"
   },
-    "dependencies": {
+  "dependencies": {
     "next": "15.0.0",
     "react": "^18.0.0",
-	"react-dom": "^18.0.0",
-	"@apphosting/adapter-nextjs": "14.0.21-canary.714b0e6"
+    "react-dom": "^18.0.0"
   },
-    "devDependencies": {  
+  "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
